@@ -3,6 +3,9 @@ uuid = "f569facd-b734-495c-9df5-0762dee8e069"
 authors = ["Mark Kittisopikul <markkitt@gmail.com> and contributors"]
 version = "1.0.0-DEV"
 
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+
 [compat]
 julia = "1"
 

@@ -1,0 +1,6 @@
+name = "MultipleScripts"
+uuid = "f01c9b92-d7b0-4766-8e19-03ae7f7ba582"
+
+[deps]
+ScriptUtils = "f569facd-b734-495c-9df5-0762dee8e069"
+StaticStrings = "4db0a0c5-418a-4e1d-8806-cb305fe13294"

@@ -1,0 +1,5 @@
+name = "Echo"
+uuid = "594283f3-b8da-40eb-8bd5-2e27980f0e39"
+
+[deps]
+ScriptUtils = "f569facd-b734-495c-9df5-0762dee8e069"
